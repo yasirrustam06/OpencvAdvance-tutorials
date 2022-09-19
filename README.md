@@ -1,4 +1,4 @@
-# ThiS Repository Contain All Advance Function oF Opencv
+# This Repository Contain All Advance Function oF Opencv
 
 
 
